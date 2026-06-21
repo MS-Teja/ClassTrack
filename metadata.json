@@ -1,0 +1,6 @@
+{
+  "name": "ClassTrack",
+  "description": "An elegant, comprehensive class attendance tracker and percentage calculator, preloaded with a custom-built timetable system that can be shared across courses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
